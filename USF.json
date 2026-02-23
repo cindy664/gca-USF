@@ -1,4 +1,129 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "University of South Florida",
+    "abbreviation": "USF",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#CFC492",
+    "primaryBrandColor": "#056747",
+    "buttonColor": "#056747",
+    "buttonTextColor": "#ffffff",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/usf.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/usf.png",
+    "partner_id": "0014T00000EOhYVQA1",
+    "programName": "USF Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": "3 USF credits",
+    "startDate": "May 18",
+    "endDate": "August 7"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of South Florida",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "4202 East Fowler Ave. FAO 100 Tampa, FL 33620-5550",
+    "abbreviation": "USF",
+    "phone": "(813) 981-7254",
+    "credits": "3 USF credits",
+    "programFee": "+ 500",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "3 USF credits",
+    "abbreviation": "USF",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "University of South Florida",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "3 USF credits",
+    "abbreviation": "USF",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "IDS3947 (CRN: CRN 21070)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 10"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "University of South Florida",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "3 USF credits",
+    "abbreviation": "USF",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "IDS3947 (CRN: CRN 21070)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 10"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "University of South Florida",
+    "trackTitle": "Data Analytics Track",
+    "credits": "3 USF credits",
+    "abbreviation": "USF",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "IDS3947 (CRN: CRN 21070)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 10"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "University of South Florida",
+    "trackTitle": "Coding for Data Track",
+    "credits": "3 USF credits",
+    "abbreviation": "USF",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "IDS3947 (CRN: CRN 21070)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 10"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "University of South Florida",
+    "trackTitle": "Career Rotation Track",
+    "credits": "3 USF credits",
+    "abbreviation": "USF",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "IDS3947 (CRN: CRN 21070)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 10"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "USF Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(813) 981-7254",
+    "abbreviation": "USF"
+  },
+  {
+    "item": "begin",
+    "credits": "3 USF credits",
+    "abbreviation": "USF",
+    "phone": "(813) 981-7254"
+  }
+]
